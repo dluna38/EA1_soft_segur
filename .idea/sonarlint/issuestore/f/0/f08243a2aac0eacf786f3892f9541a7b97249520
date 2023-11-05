@@ -1,0 +1,9 @@
+
+O
+java:S1172-"2Remove this unused method parameter "actionEvent".(Í ÷É8´€àñ¶1
+N
+java:S11721"2Remove this unused method parameter "actionEvent".(­Å¿q8´€àñ¶1
+G	java:S106j"+Replace this use of System.out by a logger.(•¥€8Ä€àñ¶1
+\
+java:S1117"9Rename "scene" which hides the field declared at line 36.(“¼öÄùÿÿÿÿ8Ê€àñ¶1
+F	java:S108")Either remove or fill this block of code.(ï­£Ä8Ï€àñ¶1

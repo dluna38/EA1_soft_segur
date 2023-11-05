@@ -1,0 +1,14 @@
+
+e
+java:S1659"HDeclare "txtApellido" and all following declarations on a separate line.(Œ©²Â8À‘Ûç¶1
+^
+java:S1126""AReplace this if-then-else statement by a single return statement.(ì…öÑ8Â‘Ûç¶1
+G	java:S106:"+Replace this use of System.out by a logger.(öøÒï8Å‘Ûç¶1
+L	java:S106E"+Replace this use of System.out by a logger.(òÛËƒşÿÿÿÿ8Ç‘Ûç¶1
+G	java:S106T"+Replace this use of System.out by a logger.(ŠÀš¿8ÏÃ•è¶1
+
+java:S1128"kRemove this unused import 'co.edu.iudigital.rrhhfuncionarios.data.dao.implementacion.FamiliarDaoHibernate'.(Ï±«Šúÿÿÿÿ8¤Û•è¶1
+O
+java:S1128"-Remove this unused import 'javafx.fxml.FXML'.(ÃÚ¢„şÿÿÿÿ8¤Û•è¶1
+Z
+java:S1128"8Remove this unused import 'javafx.scene.control.Button'.(Ë Í‹øÿÿÿÿ8¥Û•è¶1
